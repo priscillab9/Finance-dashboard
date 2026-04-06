@@ -80,7 +80,7 @@ src/
 ├── context/
 │   └── AppContext.jsx      # Global state (useReducer + Context)
 ├── data/
-│   └── mockData.js         # 48 mock transactions, category config, data helpers
+│   └── mockData.js         # 38 mock transactions, category config, data helpers
 ├── components/
 │   ├── Sidebar.jsx          # Navigation + role switcher + theme toggle
 │   ├── Dashboard.jsx        # Overview page
