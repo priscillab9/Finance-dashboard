@@ -2,7 +2,7 @@
 
 A clean, interactive finance dashboard built with React. Track balances, explore transactions, and understand spending patterns through beautiful visualizations.
 
-![Finio Dashboard](https://via.placeholder.com/1200x630/0D0F14/C8A96E?text=Finio+Finance+Dashboard)
+
 
 ---
 
@@ -104,15 +104,6 @@ src/
 ### Charts
 All charts are hand-built SVG — no chart library dependency. This keeps the bundle small and gives full visual control.
 
----
-
-## Optional Enhancements Implemented
-- ✅ **Dark/light mode** — persisted to localStorage
-- ✅ **Data persistence** — transactions, role, theme survive page refresh
-- ✅ **CSV export** — exports filtered transaction view
-- ✅ **Animations** — page transitions, modal entrance, sparkline, bar fills
-
----
 
 ## Data
-48 mock transactions across Aug–Nov 2024 covering 10 categories: Food, Transport, Shopping, Entertainment, Health, Utilities, Salary, Freelance, Investment, Education.
+38 mock transactions across Jan–Mar 2026 covering 10 categories: Food, Transport, Shopping, Entertainment, Health, Utilities, Salary, Freelance, Investment, Education.
